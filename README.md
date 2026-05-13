@@ -4,10 +4,6 @@
 
 ###
 
-<h1 align="center">!?!?!?!?</h1>
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
   <img width="12" />
