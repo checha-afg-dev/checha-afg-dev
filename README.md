@@ -1,38 +1,61 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=e9f0f3"  />
-</div>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=checha-afg-dev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F277649109%3Fu%3Dee03fccb21da1e3729c7d7d8096a99c5cba3a665%26v%3D4" alt="checha-afg-dev hero visual" />
+</p>
 
-###
+<p align="center"><sub>Building in public on GitHub.</sub></p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
-</div>
+<p align="center"><a href="https://github.com/checha-afg-dev">GitHub</a></p>
 
-###
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=checha-afg-dev&locale=en&mode=daily&theme=graywhite&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=checha-afg-dev&theme=flat&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=checha-afg-dev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F277649109%3Fu%3Dee03fccb21da1e3729c7d7d8096a99c5cba3a665%26v%3D4" alt="checha-afg-dev projects visual" />
+</p>
 
-###
+</details>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=e9f0f3"  />
-</div>
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
 
-###
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=checha-afg-dev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F277649109%3Fu%3Dee03fccb21da1e3729c7d7d8096a99c5cba3a665%26v%3D4" alt="checha-afg-dev stack visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
+
+<b>1</b> public repositories, <b>0</b> stars, <b>6</b> contributions in the last year, a longest streak of <b>1</b> days and <b>2</b> followers.
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=checha-afg-dev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F277649109%3Fu%3Dee03fccb21da1e3729c7d7d8096a99c5cba3a665%26v%3D4" alt="checha-afg-dev stats visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=checha-afg-dev&theme=neon" alt="checha-afg-dev contribution activity" />
+</p>
+
+</details>
+
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=checha-afg-dev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F277649109%3Fu%3Dee03fccb21da1e3729c7d7d8096a99c5cba3a665%26v%3D4" alt="checha-afg-dev social visual" />
+</p>
+
+</details>
+
+<p align="center"><sub>CHECHA · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
